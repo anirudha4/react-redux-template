@@ -39,4 +39,3 @@ Get started with react-redux-template
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
